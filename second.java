@@ -1,2 +1,2 @@
-public class secon{
+public class second{
 }
